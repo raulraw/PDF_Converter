@@ -1,2 +1,2 @@
 # PDF_Converter 
-Only works with xml2pdf library
+Works only with xml2pdf library <3
